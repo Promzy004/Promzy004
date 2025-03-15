@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on frontend projects
 - 📫 How to reach me - twitter @Promzy_004
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: The more i learn the more i advance😁
 
 <!---
 Promzy004/Promzy004 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
