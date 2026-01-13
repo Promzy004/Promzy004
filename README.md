@@ -31,14 +31,18 @@ Since then, I’ve continued growing through real-world builds and personal proj
 ## 🌱 Currently Learning
 
 - 🌀 **Golang** – Backend APIs, concurrency & scalable architecture   
-- ⚛️ **Advanced React & TypeScript patterns**
+- ⚛️ **SEO**
 
 ---
 
 ## 🧭 Next on My Learning Path
 
+<!--
 - 🐍 **Python (Advanced)** – automation, data handling, and backend scripting
 - ⚡ **FastAPI** – Python-based web frameworks for fast backend APIs   
+-->
+
+- ☁️ **Cloud & DevOps Fundamentals** – Docker, CI/CD, cloud basics
 - 📱 **React Native** – mobile app development  
 - 💻 **Electron** – building desktop applications  
 
@@ -53,7 +57,7 @@ Since then, I’ve continued growing through real-world builds and personal proj
 
 ## 📫 Let’s Connect
 
-- 💼 [Portfolio](https://my-portfolio-gray-eight-80.vercel.app)  
+- 💼 [Portfolio](https://edwin-promise.vercel.app)  
 - 📧 [promiseedwin242@gmail.com](mailto:promiseedwin242@gmail.com)  
 - 🔗 [LinkedIn](https://linkedin.com/in/edwin-promise)  
 - 🐙 [GitHub](https://github.com/promzy004)
